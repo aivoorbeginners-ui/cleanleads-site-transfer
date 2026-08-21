@@ -1,0 +1,4 @@
+# Nog niet open voor zoekmachines: de aanmelding in de app bestaat nog niet.
+# Zet INDEXEERBAAR in src/consts.ts op true zodra app.cleanleads.eu live is.
+User-agent: *
+Disallow: /
